@@ -1,0 +1,29 @@
+﻿Modern HTML Assignment
+
+
+
+
+
+
+Q1. List out the features of HTML5.
+Ans. html5 enables you to create a more interactive website by embedding audio,video and graphics on a web page.
+The purpose of HTML5 is to make it easier for web developers.
+New features-
+– browser support.
+– geolocation.
+– offline application cache
+– web storage
+– error handling
+– new application programming interface
+– new structure
+ 
+Q2. What are HTML entities? List out 5 commonly used HTML entities?
+HTML entities are the reserved characters that are used in the html document.
+HTML entities-
+
+
+
+
+
+
+Full Stack Web Development
